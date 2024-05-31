@@ -12,3 +12,4 @@ The objective of this project is to demonstrate the ability to apply filters to 
 - SQL
 - IDE
 ## Project Materials
+<a href="https://docs.google.com/document/d/1cn48hQNXFsP6Dkl-iDpdsD8bJ6fDMZ4HizH7ibGqtuM/edit?usp=sharing">Apply Filters to SQL Queries</a>
